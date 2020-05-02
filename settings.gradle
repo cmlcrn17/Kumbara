@@ -1,0 +1,2 @@
+rootProject.name='Kumbara'
+include ':app'
